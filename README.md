@@ -1,4 +1,4 @@
-# FGFDETR
+# CC-DETR
 ## Environment
 torch==1.10.0+cu113
 torchvision==0.11.1+cu113
